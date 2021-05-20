@@ -58,15 +58,8 @@ npm install
 
 3. Enter your API in `{PLACEHOLDER}`:
 
-```
-Placeholder
-```
 
-4. Last, but not least... spin up server and navigate to `{PLACEHOLDER}`:
-
-```
-PLACEHOLDER
-```
+1. Last, but not least... spin up server and enjoy!
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [PostgreSQL](https://www.postgresql.org) - Database
