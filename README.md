@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-inactive-success.svg)]()
+  ![Status](https://img.shields.io/badge/status-inactive-inactive.svg)
   [![GitHub Issues](https://img.shields.io/github/issues/kylejb/classzoom_frontend)](https://github.com/kylejb/classzoom_frontend/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylejb/classzoom_frontend)](https://github.com/kylejb/classzoom_frontend/pulls)
   [![License](https://img.shields.io/github/license/kylejb/classzoom_frontend?style=plastic)](/LICENSE)
