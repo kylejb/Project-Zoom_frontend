@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
+  [![Status](https://img.shields.io/badge/status-inactive-success.svg)]()
   [![GitHub Issues](https://img.shields.io/github/issues/kylejb/classzoom_frontend)](https://github.com/kylejb/classzoom_frontend/issues)
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylejb/classzoom_frontend)](https://github.com/kylejb/classzoom_frontend/pulls)
   [![License](https://img.shields.io/github/license/kylejb/classzoom_frontend?style=plastic)](/LICENSE)
@@ -17,7 +17,7 @@
 ---
 
 <p align="center"> Simplifying remote learning with Zoom API integration.
-    <br> 
+    <br>
 </p>
 
 ## 📝 Table of Contents
@@ -31,10 +31,10 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-*PLACEHOLDER... write about 1-2 paragraphs describing the purpose of project here*
+Integrate Zoom video conferencing in a virtualized classroom setting to address challenges of remote learning.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help you get a copy of this project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 
@@ -67,9 +67,6 @@ Placeholder
 ```
 PLACEHOLDER
 ```
-
-## 🎈 Usage <a name="usage"></a>
-*PLACEHOLDER... write about 1-2 paragraphs describing the usage of project here*
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [PostgreSQL](https://www.postgresql.org) - Database
